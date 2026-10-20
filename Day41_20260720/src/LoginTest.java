@@ -62,10 +62,6 @@ public class LoginTest {
 		});
 		
 		
-		
-		
-		
-		
 		윈도우창.add(아이디라벨);
 		윈도우창.add(아이디입력);
 
